@@ -1,0 +1,61 @@
+
+body {
+	background-color: #777;
+	width: 960px;
+	text-align: center;
+	margin: auto;
+}
+
+header {
+
+	background: #ebebeb;
+	padding:40px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	color: #777;
+}
+
+section {
+
+}
+
+nav a {
+  display: inline-block;
+  padding: 5px;
+  background: red;
+}
+
+#Nav {
+	background-color: #ebebeb;
+	padding: 20px;
+	margin-bottom: 20px;
+	color: #777;
+}
+
+#Aside {
+	background-color:#ebebeb;
+	color: #777;
+	width: 470px;
+	height: 350px;
+	text-align: left;
+	float: left;
+	margin-bottom: 20px;
+
+
+}
+
+#Section {
+	background-color: #ebebeb;
+	color: #777;
+	width: 470px;
+	height: 350px;
+	float: right;
+	margin-bottom: 20px;
+}
+
+#Footer {
+	background-color: #ebebeb;
+	padding: 20px;
+	color: #777;
+	clear: left;
+}
